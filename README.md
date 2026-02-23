@@ -1,50 +1,10 @@
-Croma Sales Performance Dashboard
-Project Overview
+📊 Croma Sales Performance Dashboard (Power BI)
+🔍 Overview
 
-This project is an end-to-end Sales Analytics Dashboard built using SQL and Power BI.
-It analyzes Croma sales data to understand sales performance, cost, profitability, product trends, and customer behavior.
+This is a Croma Sales Performance Dashboard built using SQL and Power BI to analyze overall retail business performance.
+The dashboard focuses on sales, cost, profit, margin, quantity, customers, products, regions, and monthly trends to support data-driven decision making.
 
-Dashboard – Sales & Profit Analysis
-
-This page focuses on:
-
-Net Sales and Gross Margin KPIs
-
-Monthly Sales & Profit trends
-
-Year-wise performance analysis
-
-Filters for Year, Region, and Category
-
-Dashboard – Product & Customer Insights
-
-This page provides insights into:
-
-Top 5 Products by Net Sales
-
-Top 5 Products by Gross Margin %
-
-Category-wise and Brand-wise Sales
-
-Customer Type Analysis (New vs Repeat)
-
-Tools & Technologies
-
-SQL (MySQL): Data insertion, cleaning, filtering, joins, aggregation
-
-Power BI: Data modeling, Power Query, dashboard creation
-
-DAX: KPI calculations and time intelligence
-
-Data Model: Star Schema
-
-Data Model
-
-Fact Table: Sales
-
-Dimension Tables: Date, Product, Customer, Store, Promotion
-
-Key KPIs
+📌 Key KPIs
 
 Net Sales
 
@@ -60,17 +20,55 @@ Total Quantity
 
 Average Order Value (AOV)
 
-Key Insights
+📊 Dashboard – Sales & Profit Overview
+
+This page highlights:
+
+Monthly Net Sales & Gross Margin trends
+
+Year-wise performance analysis
+
+KPI cards for overall business metrics
+
+Filters for Year, Region, and Category
+
+📦 Dashboard – Product & Customer Insights
+
+This page provides insights on:
+
+Top 5 Products by Net Sales
+
+Top 5 Products by Gross Margin %
+
+Category-wise and Brand-wise Sales
+
+Customer Type Analysis (New vs Repeat)
+
+🛠 Tools & Technologies
+
+SQL (MySQL): Data insertion, cleaning, filtering, joins, aggregation
+
+Power BI: Data modeling, Power Query, dashboard creation
+
+DAX: KPI calculations and time intelligence
+
+Data Model: Star Schema
+
+🗂 Data Model
+
+Fact Table: Sales
+
+Dimension Tables: Date, Product, Customer, Store, Promotion
+
+📈 Key Insights
 
 Identified top-performing products and categories
 
-Analyzed year-wise cost and profitability
+Analyzed year-wise cost and profitability trends
 
-Compared sales contribution from new and repeat customers
+Compared sales contribution from new vs repeat customers
 
-Project Use Case
+🎯 Use Case
 
-This project demonstrates practical skills in SQL, Power BI, DAX, data modeling, and business analytics.
-It is suitable for Data Analyst / Business Intelligence roles.
-
-
+This project demonstrates real-world SQL and Power BI skills, including data modeling, KPI creation, and business analytics.
+Ideal for Data Analyst / Business Intelligence roles.
