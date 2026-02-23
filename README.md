@@ -2,7 +2,31 @@ Croma Sales Performance Dashboard
 Project Overview
 
 This project is an end-to-end Sales Analytics Dashboard built using SQL and Power BI.
-It analyzes Croma sales data to understand sales performance, cost, profitability, products, and customer behavior.
+It analyzes Croma sales data to understand sales performance, cost, profitability, product trends, and customer behavior.
+
+Dashboard – Sales & Profit Analysis
+
+This page focuses on:
+
+Net Sales and Gross Margin KPIs
+
+Monthly Sales & Profit trends
+
+Year-wise performance analysis
+
+Filters for Year, Region, and Category
+
+Dashboard – Product & Customer Insights
+
+This page provides insights into:
+
+Top 5 Products by Net Sales
+
+Top 5 Products by Gross Margin %
+
+Category-wise and Brand-wise Sales
+
+Customer Type Analysis (New vs Repeat)
 
 Tools & Technologies
 
@@ -20,7 +44,7 @@ Fact Table: Sales
 
 Dimension Tables: Date, Product, Customer, Store, Promotion
 
-KPIs & Metrics
+Key KPIs
 
 Net Sales
 
@@ -36,32 +60,17 @@ Total Quantity
 
 Average Order Value (AOV)
 
-Dashboard Pages
-Page 1: Sales & Profit Analysis
-
-Monthly Net Sales and Gross Margin trend
-
-Year-wise performance
-
-KPI cards for overall business metrics
-
-Page 2: Product & Customer Insights
-
-Top 5 Products by Net Sales
-
-Category-wise and Brand-wise Sales
-
-Customer Type Analysis (New vs Repeat)
-
 Key Insights
 
-Identified top-selling products and categories
+Identified top-performing products and categories
 
 Analyzed year-wise cost and profitability
 
-Compared contribution of new and repeat customers
+Compared sales contribution from new and repeat customers
 
 Project Use Case
 
 This project demonstrates practical skills in SQL, Power BI, DAX, data modeling, and business analytics.
-It is suitable for Data Analyst and Business Intelligence roles.
+It is suitable for Data Analyst / Business Intelligence roles.
+
+
