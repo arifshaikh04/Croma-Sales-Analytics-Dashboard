@@ -26,9 +26,9 @@ This page highlights:
 
 Monthly Net Sales & Gross Margin trends
 
-Year-wise performance analysis
+Analyzed product-wise cost trends
 
-KPI cards for overall business metrics
+ Built Brand_wise business metrics by Net Sales Gross Margin% and Quantity
 
 Filters for Year, Region, and Category
 
@@ -40,9 +40,9 @@ Top 5 Products by Net Sales
 
 Top 5 Products by Gross Margin %
 
-Category-wise and Brand-wise Sales
+Analyzed Category-wise Sales
 
-Customer Type Analysis (New vs Repeat)
+Customer Type Analysis by Quantity (New vs Repeat)
 
 ## 🛠 Tools & Technologies
 
@@ -58,7 +58,7 @@ Data Model: Star Schema
 
 Fact Table: Sales
 
-Dimension Tables: Date, Product, Customer, Store, Promotion
+Dimension Tables: Date, Product, Customer,City,Category, Store, Promotion
 
 ## 📈 Key Insights
 
