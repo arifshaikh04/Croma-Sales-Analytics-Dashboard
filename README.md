@@ -1,41 +1,67 @@
-📊 Croma Sales Performance Dashboard
-📌 Project Overview
-This project focuses on building an end-to-end Sales Analytics Dashboard for Croma using SQL and Power BI.
-The dashboard provides insights into sales performance, cost analysis, product trends, and customer behavior to support data-driven business decisions.
-________________________________________
-🛠 Tools & Technologies
-•	SQL – Data insertion, cleaning, filtering, joins, and aggregation
-•	Power BI – Data modeling, Power Query, DAX, and dashboard design
-•	DAX – KPI calculations and time-based analysis
-•	Star Schema – Optimized data model for performance
-________________________________________
-🗂 Data Modeling
-Designed an optimized Star Schema including:
-•	Fact Table: Sales
-•	Dimension Tables: Date, Product, Customer, Store, Promotion
-________________________________________
-📈 Key KPIs & Metrics
-•	Net Sales
-•	Gross Margin
-•	Gross Margin %
-•	Total Orders
-•	Total Cost
-•	Total Quantity
-•	Average Order Value (AOV)
-________________________________________
-📊 Dashboard Highlights
-🔹 Page 1: Sales & Profit Overview
-•	Monthly Net Sales and Gross Margin trends
-•	Year-wise performance analysis
-•	KPI cards for overall business metrics
-🔹 Page 2: Product & Customer Insights
-•	Top 5 Highest Selling Products (by Sales Value)
-•	Category-wise and Brand-wise Sales Performance
-•	Customer Type Analysis (New vs Repeat)
-________________________________________
-🔍 Key Insights
-•	Identified top-performing products and categories
-•	Analyzed cost and profitability trends year-wise
-•	Compared sales contribution from new and repeat customers
+Croma Sales Performance Dashboard
+Project Overview
 
-# Croma-Sales-Analytics-Dashboard
+This project is an end-to-end Sales Analytics Dashboard built using SQL and Power BI.
+It analyzes Croma sales data to understand sales performance, cost, profitability, products, and customer behavior.
+
+Tools & Technologies
+
+SQL (MySQL): Data insertion, cleaning, filtering, joins, aggregation
+
+Power BI: Data modeling, Power Query, dashboard creation
+
+DAX: KPI calculations and time intelligence
+
+Data Model: Star Schema
+
+Data Model
+
+Fact Table: Sales
+
+Dimension Tables: Date, Product, Customer, Store, Promotion
+
+KPIs & Metrics
+
+Net Sales
+
+Gross Margin
+
+Gross Margin %
+
+Total Orders
+
+Total Cost
+
+Total Quantity
+
+Average Order Value (AOV)
+
+Dashboard Pages
+Page 1: Sales & Profit Analysis
+
+Monthly Net Sales and Gross Margin trend
+
+Year-wise performance
+
+KPI cards for overall business metrics
+
+Page 2: Product & Customer Insights
+
+Top 5 Products by Net Sales
+
+Category-wise and Brand-wise Sales
+
+Customer Type Analysis (New vs Repeat)
+
+Key Insights
+
+Identified top-selling products and categories
+
+Analyzed year-wise cost and profitability
+
+Compared contribution of new and repeat customers
+
+Project Use Case
+
+This project demonstrates practical skills in SQL, Power BI, DAX, data modeling, and business analytics.
+It is suitable for Data Analyst and Business Intelligence roles.
