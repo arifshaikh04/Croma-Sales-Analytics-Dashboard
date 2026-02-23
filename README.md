@@ -1,4 +1,4 @@
-📊 Croma Sales Performance Dashboard (Power BI)
+## 📊 Croma Sales Performance Dashboard (Power BI)
 🔍 Overview
 
 This is a Croma Sales Performance Dashboard built using SQL and Power BI to analyze overall retail business performance.
@@ -20,7 +20,7 @@ Total Quantity
 
 Average Order Value (AOV)
 
-📊 Dashboard – Sales & Profit Overview
+## 📊 Dashboard – Sales & Profit Overview
 
 This page highlights:
 
@@ -32,7 +32,7 @@ KPI cards for overall business metrics
 
 Filters for Year, Region, and Category
 
-📦 Dashboard – Product & Customer Insights
+## 📦 Dashboard – Product & Customer Insights
 
 This page provides insights on:
 
@@ -44,7 +44,7 @@ Category-wise and Brand-wise Sales
 
 Customer Type Analysis (New vs Repeat)
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 SQL (MySQL): Data insertion, cleaning, filtering, joins, aggregation
 
@@ -54,13 +54,13 @@ DAX: KPI calculations and time intelligence
 
 Data Model: Star Schema
 
-🗂 Data Model
+## 🗂 Data Model
 
 Fact Table: Sales
 
 Dimension Tables: Date, Product, Customer, Store, Promotion
 
-📈 Key Insights
+## 📈 Key Insights
 
 Identified top-performing products and categories
 
@@ -68,7 +68,7 @@ Analyzed year-wise cost and profitability trends
 
 Compared sales contribution from new vs repeat customers
 
-🎯 Use Case
+## 🎯 Use Case
 
 This project demonstrates real-world SQL and Power BI skills, including data modeling, KPI creation, and business analytics.
 Ideal for Data Analyst / Business Intelligence roles.
